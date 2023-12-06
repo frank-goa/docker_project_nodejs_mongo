@@ -6,6 +6,8 @@
 - TechWorld with Nana
 - Time: 1:10:27
 
+![Blank diagram](https://github.com/frank-goa/docker_project_nodejs_mongo/assets/137857643/6f509d06-f50c-4dcc-9262-fc0ed5d45e0d)
+
 
 JS, Nodejs application, MongoDB Docker Container 
 
